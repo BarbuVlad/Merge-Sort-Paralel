@@ -1,0 +1,131 @@
+Dimesiune lista: 100
+Sortare in paralel: 0.15380746394621345
+Sortare in serie: 0.001723693460083008
+
+Dimesiune lista: 1000
+Sortare in paralel: 0.15500879287719727
+Sortare in serie: 0.01500082015991211
+
+Dimesiune lista: 10000
+Sortare in paralel: 0.17701029777526855
+Sortare in serie: 0.1610090732574463
+
+Dimesiune lista: 100000
+Sortare in paralel: 0.45102572441101074
+Sortare in serie: 1.8411052227020264
+
+Dimesiune lista: 1000000
+Sortare in paralel: 3.968226909637451
+Sortare in serie: 21.240214824676514
+
+Dimesiune lista: 2000000
+Sortare in paralel: 8.16746735572815
+Sortare in serie: 44.629552364349365
+
+Dimesiune lista: 3000000
+Sortare in paralel: 12.57771921157837
+Sortare in serie: 68.2199022769928
+
+Dimesiune lista: 4000000
+Sortare in paralel: 16.845963716506958
+Sortare in serie: 92.37828350067139
+
+-----------------------------------------------------------------------------Test 2:
+Dimesiune lista: 100
+Sortare in paralel: 0.15100836753845215
+Sortare in serie: 0.002000093460083008
+
+Dimesiune lista: 1000
+Sortare in paralel: 0.1390078067779541
+Sortare in serie: 0.014000892639160156
+
+Dimesiune lista: 10000
+Sortare in paralel: 0.1670093536376953
+Sortare in serie: 0.16600966453552246
+
+Dimesiune lista: 100000
+Sortare in paralel: 0.4480257034301758
+Sortare in serie: 1.8861079216003418
+
+Dimesiune lista: 1000000
+Sortare in paralel: 3.820218801498413
+Sortare in serie: 21.805246829986572
+
+Dimesiune lista: 2000000
+Sortare in paralel: 8.00345778465271
+Sortare in serie: 45.28859066963196
+
+Dimesiune lista: 3000000
+Sortare in paralel: 12.135694026947021
+Sortare in serie: 69.94100046157837
+
+Dimesiune lista: 4000000
+Sortare in paralel: 16.863964557647705
+Sortare in serie: 95.37145495414734
+
+-----------------------------------------------------------------------------Test 3:
+Dimesiune lista: 100
+Sortare in paralel: 0.15700888633728027
+Sortare in serie: 0.0009999275207519531
+
+Dimesiune lista: 1000
+Sortare in paralel: 0.1390080451965332
+Sortare in serie: 0.014000892639160156
+
+Dimesiune lista: 10000
+Sortare in paralel: 0.17300987243652344
+Sortare in serie: 0.1630091667175293
+
+Dimesiune lista: 100000
+Sortare in paralel: 0.4650266170501709
+Sortare in serie: 1.8771073818206787
+
+Dimesiune lista: 1000000
+Sortare in paralel: 3.855220317840576
+Sortare in serie: 21.568233728408813
+
+Dimesiune lista: 2000000
+Sortare in paralel: 8.032459497451782
+Sortare in serie: 45.18258452415466
+
+Dimesiune lista: 3000000
+Sortare in paralel: 12.217698812484741
+Sortare in serie: 69.87499666213989
+
+Dimesiune lista: 4000000
+Sortare in paralel: 16.386936902999878
+Sortare in serie: 94.35139679908752
+--------------------------------------------------------------------------Test 4: 
+
+Dimesiune lista: 100
+Sortare in paralel: 0.17000961303710938
+Sortare in serie: 0.0010001659393310547
+
+Dimesiune lista: 200
+Sortare in paralel: 0.14700841903686523
+Sortare in serie: 0.003000020980834961
+
+Dimesiune lista: 300
+Sortare in paralel: 0.14500832557678223
+Sortare in serie: 0.003999948501586914
+
+Dimesiune lista: 400
+Sortare in paralel: 0.13800787925720215
+Sortare in serie: 0.00500035285949707
+
+Dimesiune lista: 10000
+Sortare in paralel: 0.1670093536376953
+Sortare in serie: 0.16800975799560547
+
+Dimesiune lista: 20000
+Sortare in paralel: 0.2110118865966797
+Sortare in serie: 0.33801937103271484
+
+Dimesiune lista: 30000
+Sortare in paralel: 0.23501372337341309
+Sortare in serie: 0.5170292854309082
+
+Dimesiune lista: 40000
+Sortare in paralel: 0.2630150318145752
+Sortare in serie: 0.708040714263916
+
