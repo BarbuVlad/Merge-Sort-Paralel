@@ -1,7 +1,7 @@
-### Merge-Sort-Parallel
+# Merge-Sort-Parallel
 #
-# Codul a fost scris si testat in Visual Studio 2017, in Python 3.6 environment. 
-# Proiectul contine urmatoarele module:
+### Codul a fost scris si testat in Visual Studio 2017, in Python 3.6 environment. 
+### Proiectul contine urmatoarele module:
 1. main.py - modulul principal
 2. merge_sort_serie.py - o implementare a sortarii in serie 
 3. merge_sort_paralel.py - o implementare a sortarii in paralel
