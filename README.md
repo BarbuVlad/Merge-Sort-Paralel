@@ -9,3 +9,4 @@
 5. Testing.py - testează sortarea și salvează rezultatul într-un fișier .txt.
 
 * Rezultate_liste_random_1.txt - conține rezultatele testelor efectuate pentru scrierea lucării.
+* **Research_papper_MergeSort.pdf** este lucrarea științifică propriu-zisă (research papper, eng.) 
